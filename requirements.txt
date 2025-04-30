@@ -1,0 +1,7 @@
+flet
+Adafruit_DHT
+gpiozero
+joblib
+scikit-learn
+pandas
+pyserial
